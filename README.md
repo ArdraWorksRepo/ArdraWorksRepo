@@ -18,7 +18,7 @@ I'am Ardra from Sydney, and I do development and design. I really enjoy learning
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdraWorksRepo)](https://github.com/anuraghazra/github-readme-stats)
 
-![Ardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdraWorksRepo&show_icons=true&theme=tokyonight)
+![Ardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdraWorksRepo&show_icons=true&theme=dark)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArdraWorksRepo)  
 
