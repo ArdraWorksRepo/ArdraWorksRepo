@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Ardra
+#### Development and Design
+![Development and Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'am Ardra from Sydney, and I do development and design. I really enjoy learning languages like JavaScript and PHP, as well as C#. I also enjoy wireframing basics, would like to learn and improve on my ux, ui  design skills. You can checkout my linkedin: linkedin.com/in/ardra-ashok-517a45186. 
+I'am Ardra from Sydney, and I do development and design. I really enjoy learning languages like JavaScript and PHP, as well as C#. I alson enjoy wireframing basics, would like to learn and imporove on my ux, ui design skills.  You can checkout my linkedin: linkedin.com/in/ardra-ashok-517a45186. 
 
 ## Skills and Experience
 * ⚛ React
@@ -8,16 +10,7 @@ I'am Ardra from Sydney, and I do development and design. I really enjoy learning
 * 🕸 HTML, CSS and JavaScript
 * 💻 C#
 
-[![Ardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdraWorksRepo)](https://github.com/ArdraWorksRepo/github-readme-stats)
 
-
-### Hi there 👋, my name is Ardra
-#### Development and Design
-![Development and Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I'am Ardra from Sydney, and I do development and design. I really enjoy learning languages like JavaScript and PHP, as well as C#. I alson enjoy wireframing basics, would like to learn and imporove on my ux, ui design skills. 
-
-Skills: REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on A's Cake Shop 
 - 🌱 I’m currently learning React 
