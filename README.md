@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/ArdraWorksRepo/ArdraWorksRepo/blob/main/giphy.gif"/>
+<img src="https://github.com/ArdraWorksRepo/ArdraWorksRepo/blob/main/giphy.gif" width="300px"/>
 
 I'am Ardra from Sydney, and I do development and design. I really enjoy learning languages like JavaScript and PHP, as well as C#. I also enjoy wireframing basics, would like to learn and improve on my ux, ui  design skills. You can checkout my linkedin: linkedin.com/in/ardra-ashok-517a45186.  
 
