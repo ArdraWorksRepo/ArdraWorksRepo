@@ -17,7 +17,7 @@ I'am Ardra from Sydney, and I do development and design. I really enjoy learning
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArdraWorksRepo)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdraWorksRepo&layout=compact)](https://github.com/ArdraWorksRepo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArdraWorksRepo&layout=compact&theme=tokyonight)](https://github.com/ArdraWorksRepo/github-readme-stats)
 
 ![Ardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdraWorksRepo&show_icons=true&theme=tokyonight)
 
