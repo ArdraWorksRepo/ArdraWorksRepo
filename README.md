@@ -12,6 +12,7 @@ I'am Ardra from Sydney, and I do development and design. I really enjoy learning
 - 🔭 I’m currently working on A's Cake Shop 
 - 🌱 I’m currently learning React 
 - ⚡ Fun fact: I like to read kids books 
+      
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArdraWorksRepo)  
