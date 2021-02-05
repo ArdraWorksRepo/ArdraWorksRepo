@@ -21,6 +21,4 @@ I'am Ardra from Sydney, and I do development and design. I really enjoy learning
 
 ![Ardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArdraWorksRepo&show_icons=true&theme=tokyonight)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ArdraWorksRepo)  
-
 ![Profile views](https://gpvc.arturio.dev/ArdraWorksRepo)  
