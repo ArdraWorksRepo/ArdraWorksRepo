@@ -1,6 +1,6 @@
 
 
- Hi there, I'am Ardra from Sydney, Australia, and I do development and designing. I enjoy learning languages like JavaScript and PHP, as well as C#. I also enjoy wireframing basics, would like to learn and improve on my ux, ui design skills.  checkout my linkedin: linkedin.com/in/ardra-ashok-517a45186. 
+ Hi there, I'm Ardra from Sydney, and I do development and designing. I enjoy learning languages like JavaScript and PHP, as well as C#. I also enjoy wireframing basics, would like to learn and improve on my ux, ui design skills.  checkout my linkedin: linkedin.com/in/ardra-ashok-517a45186. 
 
 ## Skills and Experience
 * 🕸 HTML, CSS and JavaScript
