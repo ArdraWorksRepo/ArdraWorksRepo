@@ -5,9 +5,10 @@
 ## Skills and Experience
 * 🕸 HTML, CSS, JavaScript and JQuery
 * 💻 C#
+* ⚛ React and React Native
 
-- 🔭 I’m currently working on A's Cake Shop 
-- 🌱 I’m currently learning React 
+- 🔭 I’m currently working on my Weather App
+- 🌱 I’m currently doing a deep learning on React and React Native
 - ⚡ Fun fact: I like to read kids books 
       
 
