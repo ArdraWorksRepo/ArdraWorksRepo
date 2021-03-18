@@ -4,7 +4,7 @@
 
 ## Skills and Experience
 * 🕸 HTML, CSS, JavaScript and JQuery, Tailwindcss, Node JS
-* 💻 C#
+* 💻 C#, PHP
 * ⚛ React and React Native
 
 
