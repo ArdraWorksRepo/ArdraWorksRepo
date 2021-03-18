@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on my e-commerce website
-- 🌱 I’m currently doing a learning mySQL, Angular, Vue and Gatsby.
+- 🌱 I’m currently learning mySQL, Angular, Vue and Gatsby.
 - ⚡ Fun fact: I like to read kids books 
       
 
