@@ -9,21 +9,8 @@
 
 
 - 🔭 I’m currently working on my e-commerce website
-- 🌱 I’m currently learning mySQL, Angular, Vue and Gatsby.
+- 🌱 I’m currently learning mySQL, Angular, Vue.
 - ⚡ Fun fact: I like to read kids books 
       
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/
-myWorksPiya)  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=
-myWorksPiya&layout=compact&theme=tokyonight)](https://github.com/
-myWorksPiya/github-readme-stats)
-
-![Ardra's GitHub stats](https://github-readme-stats.vercel.app/api?username=
-myWorksPiya&show_icons=true&theme=tokyonight)
-
-![Profile views](https://gpvc.arturio.dev/
-myWorksPiya)  
