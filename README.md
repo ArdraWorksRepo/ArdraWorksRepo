@@ -5,10 +5,11 @@
 ## Skills and Experience
 * 🕸 HTML, CSS, JavaScript and JQuery, Tailwindcss, Node JS
 * 💻 C#, PHP
+* Basic C,C++ & Python knowledge
 * ⚛ React and React Native
 
 
-- 🔭 I’m currently working on my e-commerce website
+- 🔭 I’m currently working on my e-commerce website (using react)
 - 🌱 I’m currently learning mySQL, Angular, Vue.
 - ⚡ Fun fact: I like to read kids books 
       
